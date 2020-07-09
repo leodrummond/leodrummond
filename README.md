@@ -1,5 +1,5 @@
 ### Hey, friend! 👋
-My name is Leo, pleasure to meet you! I'm the founder and CEO of a company called [913](https://913hq.com), and we're currently focusing on helping companies better monitor, report, and communicate with their customers when something goes wrong. Also a big fan of dogs, caffeine, and Formula 1.
+My name is Leonardo (or Leo), pleasure to meet you! I'm the founder and CEO of a company called [913](https://913hq.com), and we're currently focusing on helping companies better monitor, report, and communicate with their customers when something goes wrong. Also a big fan of dogs, caffeine, and Formula 1.
 
 <!--
 **leodrummond/leodrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
