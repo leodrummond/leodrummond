@@ -1,6 +1,5 @@
 ### Hey, friend! 👋
-My name is Leo, pleasure to meet you! I'm the founder of a company called (https://913hq.com)[913] and
-a former Lead Developer at a creative agency.
+My name is Leo, pleasure to meet you! I'm the founder and CEO of a company called (https://913hq.com)[913], and we're currently focusing on helping companies better monitor, report, and communicate with their customers when something goes wrong. Also a big fan of dogs, caffeine, and Formula 1.
 
 <!--
 **leodrummond/leodrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
