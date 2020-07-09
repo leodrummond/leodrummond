@@ -1,4 +1,4 @@
-### Welcome! 👋
+### Hey, friend! 👋
 My name is Leo, pleasure to meet you! I'm the founder of a company called (https://913hq.com)[913] and
 a former Lead Developer at a creative agency.
 
