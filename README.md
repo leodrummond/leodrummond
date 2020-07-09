@@ -7,7 +7,7 @@ My name is Leonardo (or Leo), pleasure to meet you! I'm the founder and CEO of a
 TLDR and other things:
 - 🔭 I’m currently working on [913](https://www.913hq.com).
 - 🌱 I’m currently learning how to successfully launch a SaaS company and French.
-- 👯 I’m looking to collaborate on interesting projects.
+- 👯 I’m looking to collaborate on any interesting project.
 - 🤔 I’m looking for help with NextJS and AWS.
 - 💬 Lets chat about Formula 1.
 - 📫 How to reach me: [Twitter](https://twitter.com/leomdrummond).
