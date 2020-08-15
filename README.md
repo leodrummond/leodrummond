@@ -1,5 +1,5 @@
 ### Hey, friend! 👋
-My name is Leonardo, pleasure to meet you! I'm the founder and CEO of [913](https://913hq.com). We focus on helping companies better monitor, report, resolve, and communicate with their customers when something goes wrong.
+My name is Leonardo, pleasure to meet you! I'm the founder and CEO of [913](https://913hq.com). We help companies better monitor, report, resolve, and communicate with their customers when something goes wrong.
 
 <!--
 **leodrummond/leodrummond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
