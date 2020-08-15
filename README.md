@@ -9,5 +9,5 @@ Other factoids:
 - 👯  I’m looking to collaborate on any interesting project.
 - 🤔  I’m looking for help with VueJS and AWS.
 - 💬  Down to chat about Formula 1.
-- 😄  Pronouns: He / Him
+- 👍  Pronouns: He / Him
 - ⚡  I want 6 dogs.
