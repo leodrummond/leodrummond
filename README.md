@@ -9,4 +9,3 @@ Few other things:
 - 🇫🇷  I’m currently learning French. Salut!
 - 👯  I’m looking to collaborate on any interesting project.
 - 👍  Pronouns: He / Him
-- ⚡  I want 6 dogs.
