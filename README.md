@@ -4,5 +4,6 @@ My name is Leonardo, pleasure to meet you! I'm currently building [913](https://
 
 Few other things:
 - 🇫🇷  I’m currently learning French. Salut!
-- 👯  I’m looking to collaborate on any interesting project.
+- 💬  I also speak 3 other languages, kind of.
+- 👯  Looking to collaborate on any interesting project.
 - 👍  Pronouns: He / Him
