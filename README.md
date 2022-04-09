@@ -1,4 +1,4 @@
-### Hey, friend! 👋
+Hey there! 👋
 
 My name is Leonardo, pleasure to meet you! I'm currently building [913](https://913hq.com). We help companies better monitor, resolve, and communicate with their customers when something goes wrong with their IT infrastructure. I also love starting [new projects](https://leodrummond.com/projects) and to [write](https://leodrummond.com/blog).
 
